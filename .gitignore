@@ -1,0 +1,8 @@
+# Local database credentials
+/db_credentials.json
+
+# Python-generated files
+__pycache__/
+*.py[codz]
+.pytest_cache/
+.ruff_cache/
